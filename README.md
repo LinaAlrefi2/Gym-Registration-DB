@@ -1,4 +1,4 @@
-# Gym Registration System
+# Gym Registration System DB
 
 Welcome to the **Gym Registration System**! This system is designed to manage member registrations, workout plans, coaches, classes, and dependents in a gym environment. The system is built using SQL to store and manage data for various gym activities, ensuring seamless registration and interaction for gym members.
 
